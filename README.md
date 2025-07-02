@@ -147,8 +147,4 @@ Options:
   --help             Show this message and exit.
 ```
 
-## Buy me a coffee
 
-If my work has helped you in anyway, you can buy me a coffee 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jugaader)
