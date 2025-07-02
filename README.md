@@ -1,6 +1,3 @@
-# Documentation
-
-https://marketsetup.in/documentation/jugaad-data/
 
 # Introduction
 
