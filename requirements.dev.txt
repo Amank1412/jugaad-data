@@ -1,0 +1,7 @@
+pytest==7.1.2
+pytest-testmon
+pytest-watch
+pyfakefs
+pandas
+jupyterlab
+twine
